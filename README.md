@@ -7,4 +7,6 @@
 3)For Login:
 Username: User1 password: abc123
 
+4)Use Visual Studio Community to open the source code if you want to view and modify the coding
+
 
