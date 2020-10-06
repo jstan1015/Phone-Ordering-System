@@ -1,2 +1,5 @@
 # Phone-Ordering-System
-Assembly Language Assignment
+Assignment
+
+Assembly language as backend,
+C++ as front end for the phone-ordering system
